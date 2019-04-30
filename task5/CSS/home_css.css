@@ -1,0 +1,30 @@
+.main
+{
+	background-color:#a31c0d;
+}
+fieldset
+{
+background-color: #262221;
+}
+p
+{
+	background-color: white;
+	color: #a31c0d;
+}
+#a
+{
+	color: red;
+}
+.head
+{
+	color: white;
+}
+h1,h2,h3
+{
+	color: red;
+}
+.footer
+{
+	background-color: #262221;
+	color:white;
+}

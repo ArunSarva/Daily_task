@@ -1,0 +1,29 @@
+body
+{
+background-color:#a31c0d; 
+}
+fieldset
+{
+background-color: #262221;
+}
+#a1
+{
+	background-image:url("../image/12.jpg");
+}
+#firstname 
+{
+  background-color:lightblue;
+}
+/**
+{
+	background-image: 
+}*/
+a
+{
+	color: red;
+}
+.a2
+{
+	background-color: white;
+	align-items: center;
+}

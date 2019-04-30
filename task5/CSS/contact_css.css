@@ -1,0 +1,21 @@
+body
+{
+background-color:gray; 
+}
+fieldset
+{
+background-color: white;
+}
+p
+{
+	font-size: 15;
+	font: bold;
+}
+a
+{
+	color: black;
+}
+.a1
+{
+	background-color: lightpink;
+}
