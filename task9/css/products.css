@@ -1,0 +1,69 @@
+#logo
+{
+  float: right;
+}
+a:hover {
+  background-color: gray;
+}
+.a1
+{
+    margin-right: 300px;
+    margin-left: 300px;
+}  
+   	.box1
+		{
+		position: absolute;
+		top: 150px;
+		left: 250px;
+  		float: left;
+  		padding: 20px;
+
+		}
+		
+		#box2
+		{
+			position: absolute;
+			top: 150px;
+			left: 500px;
+			float: left;
+  			padding: 20px;
+		}
+		#box3
+		{
+			position: absolute;
+			top: 150px;
+			left: 720px;
+			float: left;
+  			padding: 20px;
+		}
+
+/*.border0
+{
+	position: absolute;
+	top: 130px;
+	left: 10px;
+}*/
+.border
+{
+	position: absolute;
+	top: 170px;
+}
+.border1
+{
+	position: absolute;
+	top: 400px;
+}
+#footer
+{
+	position: absolute;
+	top: 800px;
+	left: 600px;
+}
+
+.footer
+{
+    background-color: #525b68;
+    color:white;
+    position: relative;
+    top: 650px;
+}

@@ -1,0 +1,103 @@
+
+#div1
+{
+	background-color: #213342;
+	padding: 100px 400px 220px 100px;
+    position:absolute;
+    left: 380px;
+    top: 180px;
+    z-index: 0;
+}
+a:hover {
+  background-color: gray;
+}
+.a1
+{
+    margin-right: 300px;
+    margin-left: 300px;
+}  
+#logo
+{
+  float: right;
+}
+#textarea
+{
+    position:absolute;
+    left: 70px;
+    top: 130px;
+}
+
+.div2
+{
+	background-color: #16ce6c;
+    color: white;
+}
+#form
+{
+	align-items: center;
+}
+
+
+#fname
+{
+    padding:4px;
+	
+    position:absolute;
+    left: 70px;
+    top: 50px;
+    z-index: 0;
+    background-color: #213342;
+    color: var(--color);
+
+}
+:root 
+        {
+         --color: gray; 
+        }
+#sname
+{
+    padding-left:100px;
+    padding:4px;
+	position:absolute;
+    left: 260px;
+    top: 50px;
+    z-index: 0;
+    background-color: #213342;
+
+    color: var(--color);
+}
+#email
+{
+    padding:4px;
+	position:absolute;
+    left: 70px;
+    top: 90px;
+    z-index: 0;
+    background-color: #213342;
+    color: var(--color);
+    padding-right: 193px;
+
+}
+
+#getstart
+{
+	position:absolute;
+    left: 70px;
+    top: 220px;
+    padding-right: 180px;
+    padding-left: 150px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: #16ce6c;
+    color: white;
+    font-weight: bold;
+
+
+}
+.footer
+{
+    background-color: #525b68;
+    color:white;
+    position: relative;
+    top:500px;
+}

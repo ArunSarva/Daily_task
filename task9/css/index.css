@@ -1,0 +1,21 @@
+.a1
+{
+    margin-right: 300px;
+    margin-left: 300px;
+}
+a:hover {
+  background-color: gray;
+}  
+        img{
+            float: right;
+        }
+        .slider-image
+        {
+            width: 600px;
+            height: 400px;
+        }
+.footer
+{
+    background-color: #525b68;
+    color:white;
+}
