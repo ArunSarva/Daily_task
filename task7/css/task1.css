@@ -1,0 +1,44 @@
+  .b1
+  {
+    border: solid;
+    border-radius: 60px 200px 60px 200px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    position:absolute;
+    left: 400px;
+    top: 0px;
+    z-index: 6;
+  }
+  .b2
+  {
+    border: solid;
+    border-radius: 60px 200px 60px 200px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    position:absolute;
+    left: 1000px;
+    top: 0px;
+    z-index: 6;
+  }
+  .b3
+  {
+    border: solid;
+    border-radius: 60px 200px 60px 200px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    position:absolute;
+    left: 400px;
+    top: 250px;
+    z-index: 6;
+  }
+  .b4
+  {
+    border: solid;
+    border-radius: 60px 200px 60px 200px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    position:absolute;
+    left: 1000px;
+    top: 250px;
+    z-index: 6;
+  }

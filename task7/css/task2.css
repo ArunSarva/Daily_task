@@ -1,0 +1,22 @@
+#search
+{
+	border-radius: 50px;
+	border: solid;
+	border-color: #717477;
+	color: #717477;
+}
+#img
+{
+	border-radius: 0px 15px 15px 0px ;
+	border: solid;
+	border-color:gray;
+	background-color: white;
+	position:absolute;
+    left: 185px;
+    top: 10px;
+    z-index: 6;
+}
+#ser
+{
+	margin:10px;
+}
