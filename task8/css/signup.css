@@ -1,3 +1,4 @@
+
 #div1
 {
 	background-color: #213342;
@@ -47,7 +48,8 @@
 #fname
 {
     padding:4px;
-	position:absolute;
+	
+    position:absolute;
     left: 70px;
     top: 130px;
     z-index: 0;
@@ -61,6 +63,7 @@
         }
 #sname
 {
+    padding-left:100px;
     padding:4px;
 	position:absolute;
     left: 260px;
