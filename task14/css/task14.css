@@ -1,0 +1,100 @@
+.containor
+{
+	display: grid;
+	grid-template-columns: 400px auto auto auto;
+	grid-template-rows: 100px;
+}
+.containor >div
+{
+	padding:10px;
+	/*background-color: black;*/
+}
+.containor1
+{
+	display: grid;
+	grid-template-columns: 250px 200px auto auto auto auto auto auto auto auto;
+	grid-template-rows: 60px 60px 60px 60px 60px 60px 60px 60px 60px 60px;
+	position: relative;
+	grid-gap: 10px;
+  top: 40px;
+  left: 70px;
+}
+.containor1 >div
+{
+	/*padding:10px;*/
+	/*background-color: #c7f46e;*/
+	
+}
+.a1
+{
+	grid-row: span 5;
+	color: blue;
+
+}
+.Mysore
+{
+	text-align: center;
+	background-color: #99bf50;
+}
+.green
+{
+	background-color: #c7f46e;
+	font-size: 15px;
+}
+.green1
+{
+	grid-row: span 8;
+	background-color: #c7f46e;
+}
+.a2
+{
+	grid-column-start: 4;
+	background-color: #b4a1cc;
+}
+.a3
+{
+	background-color: #b4a1cc;
+}
+.brown
+{
+	background-color: #d8d3b8;
+}
+.coff
+{
+	background-color: #fff7ce;
+	grid-column-start: 10;
+}
+.green2
+{
+	grid-column-start: 4;
+	background-color: #c5e09a;
+}
+.green3
+{
+	background-color: #c5e09a;
+}
+.coff1
+{
+	grid-column-start: 4;
+	background-color: #fff7ce;
+}
+.brown1
+{
+	grid-column-start: 4;
+	background-color: #d8d3b8;
+}
+.brown2
+{
+	grid-column-start: 6;
+	background-color: #d8d3b8;
+}
+.a4
+{
+	grid-column-start: 6;
+	background-color: #b4a1cc;
+}
+.green4
+{
+	grid-column-start: 6;
+	background-color:#c5e09a;
+}
