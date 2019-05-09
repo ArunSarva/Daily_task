@@ -1,0 +1,67 @@
+.grid-container
+{
+	display:grid;
+	grid-template-columns: 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px;
+	grid-template-rows: 100px 100px 100px 100px 100px 100px ;
+	grid-gap: 10px;
+
+}
+.grid-container >div
+{
+
+	background-color: #515151;
+	padding: 20px;
+}
+.a1
+{
+	grid-column: 1/ span 4;
+}
+.a3
+{
+	grid-column:span 2;
+}
+.a2
+{
+	grid-row-end: span 4;
+}
+.a4
+{
+	grid-row-end: span 4;
+}
+.a7
+{
+	grid-row:span 2;
+}
+.a8
+{
+	grid-column: span 2; 
+}
+.a11
+{
+	grid-column: span 2;
+    grid-row:span 2;
+}
+.a12
+{
+	grid-row:span 4;
+}
+.a13
+{
+	grid-column: span 4;
+}
+.a14
+{
+	grid-row:span 2;
+}
+.a15
+{
+	grid-column: span 2;
+}
+.a16
+{
+	grid-column: span 4;
+}
+.a17
+{
+	grid-row: span 2;
+}

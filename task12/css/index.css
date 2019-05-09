@@ -1,0 +1,110 @@
+#cont
+{
+	display: flex;
+	/*justify-content: center;*/
+  flex-wrap: nowrap;
+ 	height: 500px; 
+ 	background-color: green;
+}
+#header
+{
+	display: flex;
+	/*justify-content: flex-start;*/
+	background-color: #42ce40;
+}
+#hnav
+{
+position: absolute;
+  left: 496px;
+  top: 53px;	
+}
+#footer
+{
+	display: flex;
+	justify-content: center;
+	background-color: #2563c4;
+}
+#article
+{
+	display: flex;
+	align-content: center;
+	background-color: #cbdaf2;
+	flex-basis: 900px;
+	height: 500px;
+}
+#article > div
+{
+	background-color: #f1f1f1;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+#a2
+{
+	align-self: center;
+}
+#aside
+{
+	display: flex;
+	flex-direction: column;
+	background-color: #98a6bc;
+	width: 200px;
+	height: 500px;
+	text-align: center;
+	line-height: 75px;
+	font-size: 30px;
+}
+#aside > div
+{
+	display: flex;
+	width: 100px;
+  height: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+#s1
+{
+	align-self: flex-start;
+	background-color: #0d444d;
+}
+#s2
+{
+	align-self: flex-end;
+	background-color: #0d440d;
+}
+#nav
+{
+	display: flex;
+	background-color: #5e7ba8;
+	align-items: center;
+	width: 200px;
+	height: 500px;
+	text-align: center;
+	line-height: 75px;
+	font-size: 30px;
+}
+#logo
+{
+	float: right;
+	height: 70px;
+	width: 70px;
+}
+img
+{
+	float: right;
+	height: 150px;
+	width: 150px;
+}
+#input
+{
+  border: none;
+  background-color: #80868e;
+  color: white;
+	padding: 20px;
+}
