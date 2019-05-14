@@ -1,0 +1,143 @@
+.item1 {
+  grid-area: myArea;
+  background-color: #f78f99;
+}
+.item2 {
+  grid-area: Area;
+  background-color: #e3f78f;
+}
+.item3 {
+  grid-area: 3 / 1 / span 2 / span 4;
+  background-color: #85d1a2;
+}
+.item4 {
+  grid-area: 5 / 1 / span 3 / span 2;
+  background-color: #83c3ea;
+}
+.item5
+{
+  background-color: #9c62d6;
+}
+.item6
+{
+  background-color: #f78f99;
+}
+.item7
+{
+  background-color: #85d1a2;
+}
+.item8
+{
+  background-color: #83c3ea;
+}
+.item10
+{
+  background-color: #9c62d6;
+}
+.item9
+{
+  background-color: #e3f78f;
+}
+.ca1
+{
+  background-color: #e3f78f;
+  margin-right: 10px;
+  margin-bottom:10px;
+  height: 12px;
+}
+.last
+{
+  background-color: #e3f78f;
+}
+.ca2
+{
+   background-color: #85d1a2;
+   margin-bottom:10px;
+}
+.grid-container {
+  display: grid;
+  grid-template-areas: 'myArea myArea Area Area' 'myArea myArea Area Area ';
+  /*grid-gap: 10px;*/
+  background-color: #2196F3;
+  /*padding: 10px;*/
+}
+
+.grid-container > div {
+  
+  text-align: center;
+  padding: 20px 0;
+  font-size: 20px;
+}
+.grid-container1 {
+  display: grid;
+  grid-template-columns: 450px 450px 385px;
+  /*grid-gap: 10px;*/
+  /*background-color: #2196F3;*/
+  /*padding: 10px;*/
+  margin-bottom: 10px; 
+}
+
+.grid-container1 > div {
+
+  text-align: center;
+  padding: 20px 0;
+  font-size: 20px;
+}
+.items1
+{
+  background-color: #9c62d6;
+}
+.items2
+{
+  background-color: #f78f99;
+  height: 18px;
+}
+.items3
+{
+  background-color: #83c3ea;
+}
+.grid-container2 {
+  display: grid;
+  grid-template-columns: 650px 635px;
+  grid-gap: 10px
+  padding: 10px;
+}
+
+.grid-container2 > div {
+
+  text-align: center;
+  padding: 20px 0;
+  font-size: 20px;
+}
+.grid-container3 {
+  display: grid;
+  grid-template-columns: 430px 250px 430px 175px;
+  background-color: #2196F3;
+  /*padding: 10px;*/
+}
+
+.grid-container3 > div {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 20px;
+}
+.can1
+{
+  background-color: #f78f99;
+}
+.can2
+{
+  background-color:#83c3ea; 
+}
+.grid-container4 {
+  display: grid;
+  grid-template-columns: 900px 386px;
+  /*background-color: #2196F3;*/
+  /*padding: 10px;*/
+}
+
+.grid-container4 > div {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 20px;
+}
